@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+/* linear Gradients */
+/* html {
+    background: linear-gradient(to bottom, maroon, gold);
+    height: 100%;
+} */
+
+
+
+/* radial Gradients */
+html {
+    background: radial-gradient(ellipse farthest-side at center, rgb(72, 255, 0), rgb(0, 255, 115), blue);
+    height: 100%;
+}
